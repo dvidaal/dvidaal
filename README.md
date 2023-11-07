@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diana Vidal</h1>
 <h3 align="center">A passionate fullstack developer from Barcelona 📍</h3>
-<img align="right" alt="coding" width="266.664" height="200" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+<img align="right" alt="coding" width="266.664" height="200" src="[https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif](https://drive.google.com/file/d/1b1igVm6jqyYYw49AJlNQXs9Il2y8IkN_/view?usp=drive_link)">
 
 - 📫 How to reach me **dvidaal@gmail.com**
 
-🚀 I am a passionate developer dedicated to code quality and scalability, applying SOLID principles and best development practices. I focus on writing clean, maintainable, and scalable code. I strive to maintain a continuous delivery process, ensuring code quality and an exceptional user experience. 
+- I am a passionate developer dedicated to code quality and scalability, applying SOLID principles and best development practices. I focus on writing clean, maintainable, and scalable code. I strive to maintain a continuous delivery process, ensuring code quality and an exceptional user experience. 🚀 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
