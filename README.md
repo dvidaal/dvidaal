@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diana Vidal</h1>
 <h3 align="center">A passionate fullstack developer from Barcelona 📍</h3>
-<img align="rigth" width="266.664" height="200" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+<img align="rigth" alt="coding" width="266.664" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 
 - 📫 How to reach me **dvidaal@gmail.com**
 
