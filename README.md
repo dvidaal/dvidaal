@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **dvidaal@gmail.com**
 
+🚀 I am a passionate developer dedicated to code quality and scalability, applying SOLID principles and best development practices. I focus on writing clean, maintainable, and scalable code. I strive to maintain a continuous delivery process, ensuring code quality and an exceptional user experience. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diana-vidal-gonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diana-vidal-gonzalez/" height="30" width="40" /></a>
